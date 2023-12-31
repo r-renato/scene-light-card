@@ -2,6 +2,12 @@ node_modules
 package-lock.json
 yarn.lock
 coverage.lcov
+PaxHeader
+archive
+hatest
+lib
+dist
+test
 .nyc_output
 
 .idea
